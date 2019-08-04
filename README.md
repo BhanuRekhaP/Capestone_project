@@ -2,7 +2,7 @@
 
 Predictive Modelling on Lending Club Loan Status
 
-Based on data from Lending Club, we developed a predictive model of loan status, to predict whether the loan will end up as "Good" (Fully Paid) or "Bad" (Default) status for a new customer. 
+Based on data from Lending Club, a predictive model is developed on loan status, to predict whether the loan will end up as "Good" (Fully Paid) or "Bad" (Default) status for a new customer. 
 
 By integrating and implementing the predictive modelling on their investment shopping interface, Lending Club could easily flag loans at high risk of default and can adjust interests’ rate to offset the risk of default.
 
