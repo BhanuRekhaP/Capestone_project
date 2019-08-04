@@ -1,2 +1,6 @@
 # Capestone_project
-Credit risk analysis of Lending club
+Predictive Modelling on Lending Club Loan Status
+Based on data from Lending Club, we developed a predictive model of loan status, to predict whether the loan will end up as "Good" (Fully Paid) or "Bad" (Default) status for a new customer. The default risk increases almost for borrowers with low FICO score and declining with respect to high FICO score. Based on the results, applicant’s credit health (fico score) and income were most important factors to consider when evaluating risk of default.
+However, the accuracy of prediction was hampered by the imbalanced distribution of good and bad loans. Nevertheless, the project demonstrates great potential of applying machine learning in risk prediction for P2P lending. By integrating and implementing the predictive modelling on their investment shopping interface, Lending Club could easily flag loans at high risk of default and can adjust interests’ rate to offset the risk of default.
+
+Lending Club data set contains the complete loan data for all Lending Club loans issued through year 2007-2019Q1, including the current loan status (Current, Late, Fully Paid, etc.) and the latest payment information. To predict whether the loan will end up as "Good" (Fully Paid) or "Bad" (Default) status for the current customers.
